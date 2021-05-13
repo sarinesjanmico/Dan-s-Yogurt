@@ -1,0 +1,47 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    background-image: linear-gradient(to bottom right, #00F490,#00BBC9);
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.drop-shadow {
+    text-shadow: 2px 5px 10px rgba(0, 0, 0, 0.171);
+}
+
+.lead {
+    color: white;
+    font-size: 2.2rem;
+}
+
+.btn-outline-light {
+    border-color:white;
+}
+
+.btn-outline-light:hover {
+    background-color:rgb(117, 165, 255);
+    color: white;
+}
+
+
+.card {
+    box-shadow: 10px 5px 10px rgba(0, 0, 0, 0.171);
+}
+
+.btn-primary {
+    background-color: #00BBC9;
+    border-color: white;
+}
+
+.btn-primary:hover {
+    background-color: aquamarine;
+    border-color: white;
+}
+
